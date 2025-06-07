@@ -15,6 +15,9 @@ This project leverages machine learning techniques to detect anomalies and poten
 ├── 📄 main.py  
 └── 📄 README.md  
 
+> ⚠️ **Note:** The original dataset is over **883 MB**, so only a sample portion has been uploaded to this repository.
+> 
+> Full dataset available on [Kaggle](https://www.kaggle.com/) — please refer to the original source if you want to reproduce the full pipeline.
 --- 
 ## 🚀 Features
 - **Log Preprocessing**: timestamp parsing, IP cleanup, encoding
