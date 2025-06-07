@@ -1,0 +1,80 @@
+﻿timestamp;source_ip;dest_ip;protocol;action;threat_label;log_type;bytes_transferred;user_agent;request_path
+2024-05-01T00:00:00;192.168.1.125;192.168.1.124;TCP;blocked;benign;firewall;10889;Nmap Scripting Engine;/
+2024-07-18T00:00:00;192.168.1.201;192.168.1.201;ICMP;blocked;benign;application;36522;Nmap Scripting Engine;/
+2024-04-07T00:00:00;192.168.1.248;192.168.1.15;HTTP;allowed;benign;application;20652;Mozilla/5.0 (Windows NT 10.0;
+2024-10-26T00:00:00;192.168.1.236;192.168.1.219;HTTP;allowed;benign;application;5350;Mozilla/5.0 (Macintosh;
+2024-10-31T00:00:00;192.168.1.221;192.168.1.61;ICMP;allowed;benign;application;40691;Mozilla/5.0 (Windows NT 10.0;
+2024-12-02T00:00:00;192.168.1.134;192.168.1.81;FTP;allowed;benign;application;15742;curl/7.64.1;/backup
+2024-03-08T00:00:00;192.168.1.77;192.168.1.118;UDP;allowed;benign;firewall;30134;SQLMap/1.6-dev;/
+2024-02-07T00:00:00;192.168.1.130;192.168.1.68;TCP;blocked;benign;firewall;16109;curl/7.64.1;/
+2024-03-21T00:00:00;192.168.1.140;192.168.1.181;UDP;allowed;benign;application;36446;curl/7.64.1;/
+2024-03-09T00:00:00;192.168.1.228;192.168.1.28;HTTPS;allowed;benign;ids;18565;SQLMap/1.6-dev;/secure
+2024-06-24T00:00:00;192.168.1.163;192.168.1.219;UDP;blocked;benign;ids;3429;Mozilla/5.0 (Windows NT 10.0;
+2024-05-21T00:00:00;192.168.1.86;192.168.1.198;TCP;blocked;benign;firewall;48677;Nmap Scripting Engine;/
+2024-10-14T00:00:00;192.168.1.20;192.168.1.242;HTTPS;allowed;benign;application;2461;curl/7.64.1;/admin/config
+2024-10-09T00:00:00;192.168.1.33;192.168.1.11;UDP;allowed;benign;ids;13867;Mozilla/5.0 (Macintosh;
+2024-06-30T00:00:00;88.29.76.112;192.168.1.250;HTTP;allowed;benign;firewall;11703;Nmap Scripting Engine;/login
+2024-04-01T00:00:00;103.93.57.36;192.168.1.201;FTP;allowed;benign;ids;25170;Mozilla/5.0 (Windows NT 10.0;
+2024-04-23T00:00:00;192.168.1.236;192.168.1.118;UDP;allowed;benign;firewall;1650;Mozilla/5.0 (Macintosh;
+2024-06-17T00:00:00;192.168.1.18;192.168.1.248;HTTPS;blocked;benign;application;33484;Nmap Scripting Engine;/admin/config
+2024-06-18T00:00:00;217.89.155.68;192.168.1.225;SSH;allowed;benign;application;7204;SQLMap/1.6-dev;/home/user
+2024-06-25T00:00:00;144.138.68.192;192.168.1.112;HTTP;allowed;benign;ids;3008;Nmap Scripting Engine;/login
+2024-09-23T00:00:00;137.197.33.33;192.168.1.176;HTTPS;allowed;benign;ids;21739;SQLMap/1.6-dev;/auth
+2024-12-05T00:00:00;221.28.64.50;192.168.1.231;UDP;blocked;benign;application;19476;SQLMap/1.6-dev;/
+2024-04-08T00:00:00;192.168.1.241;192.168.1.98;HTTP;allowed;benign;application;37396;curl/7.64.1;/api/login
+2024-10-07T00:00:00;235.165.118.37;192.168.1.74;TCP;blocked;benign;ids;33600;Nmap Scripting Engine;/
+2024-12-03T00:00:00;192.168.1.132;192.168.1.170;HTTP;blocked;benign;firewall;49326;Mozilla/5.0 (Macintosh;
+2024-06-07T00:00:00;192.168.1.51;192.168.1.38;TCP;allowed;benign;ids;40160;Mozilla/5.0 (Windows NT 10.0;
+2024-07-31T00:00:00;177.52.183.80;192.168.1.50;HTTPS;blocked;suspicious;ids;45164;Mozilla/5.0 (Windows NT 10.0;
+2024-04-22T00:00:00;192.168.1.246;192.168.1.179;HTTP;allowed;benign;application;16431;Mozilla/5.0 (Windows NT 10.0;
+2024-03-09T00:00:00;122.63.201.122;192.168.1.136;SSH;blocked;benign;ids;33181;Nmap Scripting Engine;/home/user
+2024-03-22T00:00:00;245.200.237.136;192.168.1.116;UDP;allowed;benign;application;31858;Mozilla/5.0 (Macintosh;
+2024-08-13T00:00:00;192.168.1.74;192.168.1.61;UDP;blocked;benign;application;5380;Mozilla/5.0 (Macintosh;
+2024-04-28T00:00:00;192.168.1.40;192.168.1.181;TCP;blocked;benign;ids;21784;SQLMap/1.6-dev;/
+2024-07-31T00:00:00;192.168.1.214;192.168.1.108;UDP;allowed;benign;application;25028;Nmap Scripting Engine;/
+2024-06-29T00:00:00;192.168.1.100;192.168.1.219;HTTPS;blocked;benign;application;49089;SQLMap/1.6-dev;/admin/config
+2024-04-22T00:00:00;192.168.1.70;192.168.1.112;ICMP;blocked;benign;ids;26597;Mozilla/5.0 (Macintosh;
+2024-03-06T00:00:00;137.197.33.33;192.168.1.7;FTP;allowed;suspicious;firewall;30357;Mozilla/5.0 (Macintosh;
+2024-07-13T00:00:00;192.168.1.117;192.168.1.84;UDP;blocked;benign;ids;49383;Nmap Scripting Engine;/
+2024-02-11T00:00:00;192.168.1.192;192.168.1.139;TCP;blocked;benign;firewall;42707;Mozilla/5.0 (Windows NT 10.0;
+2024-01-16T00:00:00;95.91.54.172;192.168.1.215;TCP;allowed;benign;firewall;37060;Mozilla/5.0 (Macintosh;
+2024-12-24T00:00:00;192.168.1.95;192.168.1.43;HTTP;allowed;benign;firewall;20484;Mozilla/5.0 (Windows NT 10.0;
+2024-01-14T00:00:00;177.52.183.80;192.168.1.174;FTP;blocked;benign;ids;38903;Mozilla/5.0 (Macintosh;
+2024-12-22T00:00:00;25.169.111.91;192.168.1.154;HTTPS;allowed;benign;ids;4619;SQLMap/1.6-dev;/auth
+2024-01-07T00:00:00;126.5.29.238;192.168.1.28;ICMP;blocked;benign;application;10126;Nmap Scripting Engine;/
+2024-09-24T00:00:00;81.103.69.17;192.168.1.158;HTTPS;blocked;benign;ids;17689;curl/7.64.1;/secure
+2024-02-14T00:00:00;192.168.1.116;192.168.1.63;HTTPS;blocked;benign;ids;1980;Nmap Scripting Engine;/auth
+2024-04-03T00:00:00;192.168.1.91;192.168.1.205;UDP;blocked;benign;application;46052;curl/7.64.1;/
+2024-09-21T00:00:00;207.41.179.109;192.168.1.62;HTTPS;blocked;benign;application;42429;Nmap Scripting Engine;/api/v1/data
+2024-01-09T00:00:00;192.168.1.57;192.168.1.104;HTTP;blocked;benign;application;38212;curl/7.64.1;/api/login
+2024-10-10T00:00:00;192.168.1.109;192.168.1.191;HTTP;blocked;benign;application;29836;curl/7.64.1;/dashboard
+2024-05-08T00:00:00;192.168.1.185;192.168.1.50;UDP;allowed;benign;firewall;14280;Nmap Scripting Engine;/
+2024-10-28T00:00:00;209.18.251.195;192.168.1.153;UDP;allowed;benign;firewall;19909;Mozilla/5.0 (Windows NT 10.0;
+2024-05-20T00:00:00;192.168.1.14;192.168.1.142;UDP;allowed;benign;application;49434;Nmap Scripting Engine;/
+2024-01-07T00:00:00;192.168.1.121;192.168.1.123;ICMP;allowed;benign;firewall;31408;Mozilla/5.0 (Windows NT 10.0;
+2024-07-24T00:00:00;192.168.1.148;192.168.1.162;HTTP;allowed;benign;firewall;36986;curl/7.64.1;/login
+2024-05-07T00:00:00;192.168.1.196;192.168.1.107;HTTP;allowed;benign;application;25028;Nmap Scripting Engine;/api/login
+2024-06-01T00:00:00;185.225.185.68;192.168.1.79;HTTP;allowed;suspicious;application;13717;Mozilla/5.0 (Macintosh;
+2024-03-21T00:00:00;192.168.1.142;192.168.1.20;TCP;blocked;benign;ids;45278;SQLMap/1.6-dev;/
+2024-05-29T00:00:00;192.168.1.74;192.168.1.181;UDP;blocked;benign;firewall;45148;Mozilla/5.0 (Macintosh;
+2024-11-16T00:00:00;192.168.1.206;192.168.1.240;TCP;allowed;benign;application;14833;Mozilla/5.0 (Macintosh;
+2024-03-13T00:00:00;192.168.1.43;192.168.1.203;UDP;blocked;benign;ids;8249;Nmap Scripting Engine;/
+2024-12-24T00:00:00;192.168.1.70;192.168.1.129;HTTP;blocked;benign;firewall;39292;Mozilla/5.0 (Windows NT 10.0;
+2024-06-14T00:00:00;192.168.1.7;192.168.1.24;TCP;allowed;benign;application;17762;SQLMap/1.6-dev;/
+2024-03-30T00:00:00;192.168.1.167;192.168.1.114;FTP;allowed;benign;application;32325;Mozilla/5.0 (Windows NT 10.0;
+2024-06-27T00:00:00;192.168.1.83;192.168.1.172;TCP;allowed;benign;ids;27077;Nmap Scripting Engine;/
+2024-12-05T00:00:00;141.26.13.167;192.168.1.141;TCP;allowed;suspicious;ids;26588;SQLMap/1.6-dev;/?..\..\etc\passwd
+2024-08-24T00:00:00;192.168.1.49;192.168.1.133;UDP;blocked;benign;application;29069;Mozilla/5.0 (Windows NT 10.0;
+2024-05-16T00:00:00;192.168.1.238;192.168.1.74;ICMP;blocked;suspicious;firewall;41389;SQLMap/1.6-dev;/?login
+2024-06-08T00:00:00;192.168.1.142;192.168.1.105;TCP;allowed;benign;ids;7798;Mozilla/5.0 (Macintosh;
+2024-05-29T00:00:00;192.168.1.70;192.168.1.107;HTTPS;blocked;benign;firewall;30035;SQLMap/1.6-dev;/secure
+2024-07-15T00:00:00;192.168.1.154;192.168.1.131;HTTPS;allowed;benign;firewall;18204;Nmap Scripting Engine;/auth
+2024-09-16T00:00:00;192.168.1.1;192.168.1.73;HTTPS;blocked;benign;firewall;29364;SQLMap/1.6-dev;/api/v1/data
+2024-06-25T00:00:00;192.168.1.196;192.168.1.140;UDP;blocked;benign;firewall;45811;Mozilla/5.0 (Macintosh;
+2024-04-29T00:00:00;88.29.76.112;192.168.1.12;UDP;blocked;benign;application;43595;Mozilla/5.0 (Macintosh;
+2024-01-19T00:00:00;192.168.1.248;192.168.1.152;UDP;allowed;benign;ids;6634;SQLMap/1.6-dev;/
+2024-01-08T00:00:00;88.29.76.112;192.168.1.223;HTTP;allowed;benign;firewall;22287;SQLMap/1.6-dev;/wp-login.php
+2024-07-22T00:00:00;192.168.1.219;192.168.1.85;HTTPS;blocked;benign;ids;41177;Nmap Scripting Engine;/admin/config
+2024-01-19T00:00:00;192.168.1.61;192.168.1.162;HTTP;blocked;benign;firewall;49040;Mozilla/5.0 (Windows NT 10.0;
+2024-02-20T00:00:00;252.166.26.16;192.168.1.224;TCP;allowed;suspicious;application;21358;Mozilla/5.0 (Windows NT 10.0;
+2024-07-10T00:00:00;192.168.1.63;192.168.1.136;ICMP;allowed;suspicious;firewall;40043;Nmap Scripting Engine;/?backup.sql
